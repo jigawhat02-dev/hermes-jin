@@ -1,0 +1,1994 @@
+[
+    {
+        "code": "AA02606428",
+        "name": "[불량]_모모카와긴죠팩_900ML",
+        "pack": 12,
+        "category": "사케"
+    },
+    {
+        "code": "AA02000026",
+        "name": "[불량]_스텔라캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02606431",
+        "name": "[불량]_타이거라거캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02606432",
+        "name": "[불량]_하이네켄캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AM01000051",
+        "name": "[불량]P)금복주_참소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000049",
+        "name": "[불량]대선주조_대선_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000052",
+        "name": "[불량]대선주조_대선_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AA02606434",
+        "name": "[불량]롯데_새로소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000053",
+        "name": "[불량]무학_좋은데이소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000054",
+        "name": "[불량]무학_좋은데이소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000055",
+        "name": "[불량]무학_화이트소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AA02000027",
+        "name": "[불량]오비맥주_카스라이트캔_464ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000025",
+        "name": "[불량]오비맥주_카스캔_464ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA01000007",
+        "name": "[불량]오비맥주_한맥_464ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA02606429",
+        "name": "[불량]이태리_칸티모스카토콜레지오네파밀리아IGT_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "AM01000057",
+        "name": "[불량]하이트진로_일품진로오크43_375ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "AM01000056",
+        "name": "[불량]하이트진로_진로소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000050",
+        "name": "[불량]하이트진로_참이슬_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AA01000008",
+        "name": "[불량]하이트진로_테라병_500ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "AA02606430",
+        "name": "[불량]하이트진로_하이트캔_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606221",
+        "name": "_곰표맥주_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606222",
+        "name": "_기네스드라프트캔_440ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606223",
+        "name": "_기린이치방캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AE01000001",
+        "name": "_더탈리스만_700ML",
+        "pack": 12,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606224",
+        "name": "_더탈리스만_700ML_RFID",
+        "pack": 12,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606225",
+        "name": "_랭스_700ML_RFID",
+        "pack": 12,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606226",
+        "name": "_모모카와긴죠팩_900ML",
+        "pack": 12,
+        "category": "사케"
+    },
+    {
+        "code": "A200606227",
+        "name": "_버드와이저_740ML",
+        "pack": 15,
+        "category": "대캔"
+    },
+    {
+        "code": "A200606228",
+        "name": "_버드와이저캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606229",
+        "name": "_산미구엘블랑카캔_490ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606230",
+        "name": "_산미구엘페일필젠캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606231",
+        "name": "_산토리가쿠빈_700ML",
+        "pack": 12,
+        "category": "RFID"
+    },
+    {
+        "code": "AE04000001",
+        "name": "_산토리가쿠빈_700ML_RFID",
+        "pack": 12,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606232",
+        "name": "_산토리캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606233",
+        "name": "_삿포로생70_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606234",
+        "name": "_삿포로캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02606433",
+        "name": "_스텔라캔_330ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606235",
+        "name": "_스텔라캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606236",
+        "name": "_스텔라캔_740ML",
+        "pack": 15,
+        "category": "대캔"
+    },
+    {
+        "code": "A200606237",
+        "name": "_써머스비애플사이더캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606238",
+        "name": "_아사히생수퍼드라이캔_340ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606239",
+        "name": "_아사히생수퍼드라이캔_485ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606240",
+        "name": "_아사히캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606241",
+        "name": "_에델바이스캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606242",
+        "name": "_엑스레이티드_375ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "AJ01000001",
+        "name": "_엑스레이티드_375ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606243",
+        "name": "_예거라들러복숭아캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606244",
+        "name": "_예거라들러청포도캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606245",
+        "name": "_예거마이스터_350ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606246",
+        "name": "_잭다니엘스_500ML",
+        "pack": 6,
+        "category": "캔"
+    },
+    {
+        "code": "A200606247",
+        "name": "_잭다니엘스허니_200ML",
+        "pack": 24,
+        "category": "병"
+    },
+    {
+        "code": "A200606248",
+        "name": "_제주맥주위트에일캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606249",
+        "name": "_제주펠롱에일_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606250",
+        "name": "_존바리저브_750ML_RFID",
+        "pack": 12,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606251",
+        "name": "_존바파이니스트_750ML_RFID",
+        "pack": 12,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606252",
+        "name": "_칭따오엑스트라라이트_500ML",
+        "pack": 12,
+        "category": "캔"
+    },
+    {
+        "code": "A200606253",
+        "name": "_칭따오캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606254",
+        "name": "_칭따오캔_710ML",
+        "pack": 24,
+        "category": "대캔"
+    },
+    {
+        "code": "A200606255",
+        "name": "_칼스버그캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606256",
+        "name": "_코로나병_355ML",
+        "pack": 24,
+        "category": "병"
+    },
+    {
+        "code": "A200606257",
+        "name": "_코젤다크캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606258",
+        "name": "_코젤라거캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606259",
+        "name": "_크로넨버그1664블랑캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606260",
+        "name": "_크롬바커바이젠캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606261",
+        "name": "_크롬바커캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606262",
+        "name": "_타이거라거캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606263",
+        "name": "_타이거라들러레몬캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606264",
+        "name": "_타이거라들러자몽캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606265",
+        "name": "_탐나불린쉐리캐스크_700ML",
+        "pack": 6,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606266",
+        "name": "_파울라너바이스비어캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606267",
+        "name": "_페로니캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606268",
+        "name": "_피치트리_700ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606269",
+        "name": "_필스너우르켈캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606270",
+        "name": "_하이네켄_실버_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606271",
+        "name": "_하이네켄캔_330ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606272",
+        "name": "_하이네켄캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606273",
+        "name": "_호가든캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606274",
+        "name": "_호로요이피치_350ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606275",
+        "name": "_호로요이하피클사워_350ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606276",
+        "name": "_호로요이화이트사워_350ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606277",
+        "name": "◆롯데_미림_900ML",
+        "pack": 12,
+        "category": "PET"
+    },
+    {
+        "code": "A200606278",
+        "name": "★PRK_말리부_200ML",
+        "pack": 24,
+        "category": "병"
+    },
+    {
+        "code": "A200606279",
+        "name": "★PRK_앱솔루트보드카_375ML",
+        "pack": 24,
+        "category": "병"
+    },
+    {
+        "code": "A200606280",
+        "name": "★PRK_앱솔루트피치_375ML",
+        "pack": 24,
+        "category": "병"
+    },
+    {
+        "code": "A200606281",
+        "name": "★중국_홍성이과두주8년43도_250ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "AL01000002",
+        "name": "26LNY)경주법주_경주법주골드_700ML",
+        "pack": 8,
+        "category": "병"
+    },
+    {
+        "code": "A200606282",
+        "name": "CP_20_구)하이트진로_참이슬_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606283",
+        "name": "CP_20_구)하이트진로_참이슬클래식_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606284",
+        "name": "CP_6_하이트진로_필라이트후레쉬피쳐_1.6L",
+        "pack": 6,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606285",
+        "name": "GS_글렌스택스카치위스키_700ML_RFID",
+        "pack": 12,
+        "category": "RFID"
+    },
+    {
+        "code": "AM01000009",
+        "name": "P)금복주_참소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000024",
+        "name": "P)대선주조_시원소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606286",
+        "name": "P)대선주조_시원소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "A200606287",
+        "name": "PRK_깔루아_350ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "A200606288",
+        "name": "PRK_로얄살루트21년_500ML",
+        "pack": 6,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606289",
+        "name": "PRK_말리부_700ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606290",
+        "name": "PRK_발렌타인파이니스트_700ML_RFID",
+        "pack": 6,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606291",
+        "name": "PRK_시바스리갈12년_700ML",
+        "pack": 6,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606292",
+        "name": "PRK_앱솔루트보드카_700ML",
+        "pack": 12,
+        "category": "보드카"
+    },
+    {
+        "code": "A200606293",
+        "name": "PRK_제임슨스탠다드_700ML_RFID",
+        "pack": 6,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606294",
+        "name": "경주법주_경주법주골드_700ML",
+        "pack": 8,
+        "category": "병"
+    },
+    {
+        "code": "A200606295",
+        "name": "광주요_화요17도_375ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606296",
+        "name": "광주요_화요19금(金)_375ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606297",
+        "name": "광주요_화요25도_375ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606298",
+        "name": "광주요_화요25도_500ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606299",
+        "name": "국순당_명작복분자_375ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "A200606300",
+        "name": "국순당_백세주_375ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000027",
+        "name": "금복주_참레져용PET_200ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000010",
+        "name": "금복주_참소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000028",
+        "name": "금복주_참소주30도PET_3.6L",
+        "pack": 4,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000011",
+        "name": "금복주_참소주PET_1.8L",
+        "pack": 8,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000012",
+        "name": "금복주_참소주PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606301",
+        "name": "뉴질랜드_배비치블랙말보로소비뇽블랑_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606302",
+        "name": "뉴질랜드_오이스터베이소비뇽블랑_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB03000002",
+        "name": "뉴질랜드_코노소비뇽블랑_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606303",
+        "name": "뉴질랜드_헌팅롯지말보로소비뇽블랑_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AM01000013",
+        "name": "대선주조_대선_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000026",
+        "name": "대선주조_대선_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000029",
+        "name": "대선주조_대선PET_1.8L",
+        "pack": 8,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000025",
+        "name": "대선주조_대선PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606304",
+        "name": "대선주조_대선담금주30도PET_1.8L",
+        "pack": 8,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000030",
+        "name": "대선주조_시원소주PET_1.8L",
+        "pack": 8,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000031",
+        "name": "대선주조_시원소주PET_200ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000032",
+        "name": "대선주조_시원소주PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606305",
+        "name": "대표밀맥주_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606306",
+        "name": "디아지오_벨즈_700ML",
+        "pack": 12,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606307",
+        "name": "디아지오_조니워커레드_700ML",
+        "pack": 6,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606308",
+        "name": "디아지오_조니워커블랙_700ML",
+        "pack": 6,
+        "category": "RFID"
+    },
+    {
+        "code": "A200606309",
+        "name": "롯데_레몬진캔4.5도_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606310",
+        "name": "롯데_레몬진캔4.5도_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606311",
+        "name": "롯데_레몬진캔7도_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606312",
+        "name": "롯데_레몬진캔7도_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606313",
+        "name": "롯데_레몬진캔제로나인_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606314",
+        "name": "롯데_로제청하스파클링_295ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "AL01000003",
+        "name": "롯데_백화수복골드_700ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "A200606315",
+        "name": "롯데_별빛청하_295ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "A200606316",
+        "name": "롯데_새로PET_640ML*4",
+        "pack": 1,
+        "category": "PET"
+    },
+    {
+        "code": "A200606317",
+        "name": "롯데_새로살구_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000001",
+        "name": "롯데_새로소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606318",
+        "name": "롯데_새로소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000006",
+        "name": "롯데_새로소주PET_400ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606319",
+        "name": "롯데_새로소주PET_400ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000005",
+        "name": "롯데_새로소주PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606320",
+        "name": "롯데_여울25도_375ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "AM01000008",
+        "name": "롯데_처음처럼PET_1.8L",
+        "pack": 6,
+        "category": "PET"
+    },
+    {
+        "code": "A200606321",
+        "name": "롯데_처음처럼PET_250ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000003",
+        "name": "롯데_처음처럼PET_400ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606322",
+        "name": "롯데_처음처럼PET_400ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000007",
+        "name": "롯데_처음처럼PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606323",
+        "name": "롯데_처음처럼담금소주PET30도_5L",
+        "pack": 2,
+        "category": "PET"
+    },
+    {
+        "code": "A200606324",
+        "name": "롯데_처음처럼담금소주PET35도_1.8L",
+        "pack": 6,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000002",
+        "name": "롯데_처음처럼부드러운_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606325",
+        "name": "롯데_처음처럼부드러운_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "A200606326",
+        "name": "롯데_처음처럼진한PET_1.8L",
+        "pack": 6,
+        "category": "PET"
+    },
+    {
+        "code": "A200606327",
+        "name": "롯데_처음처럼진한PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AL01000001",
+        "name": "롯데_청하_300ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AT01000001",
+        "name": "롯데_청하드라이_300ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "AM01000004",
+        "name": "롯데_크러시PET_1.6L",
+        "pack": 6,
+        "category": "PET"
+    },
+    {
+        "code": "A200606328",
+        "name": "롯데_크러시캔_470ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA01000001",
+        "name": "롯데_클라우드캔_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606329",
+        "name": "롯데_클라우드캔_470ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000001",
+        "name": "롯데_클라우드캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606330",
+        "name": "무학_매실마을_330ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000014",
+        "name": "무학_좋은데이담금주3.6L",
+        "pack": 4,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000015",
+        "name": "무학_좋은데이소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000016",
+        "name": "무학_좋은데이소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000017",
+        "name": "무학_좋은데이소주PET_360ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000018",
+        "name": "무학_화이트소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000019",
+        "name": "무학_화이트소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000020",
+        "name": "무학_화이트소주20도PET_1.8L",
+        "pack": 8,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000021",
+        "name": "무학소주_좋은데이PET_200ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000023",
+        "name": "무학소주_좋은데이PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606331",
+        "name": "미국_롱반캘리포니아피노누아_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606332",
+        "name": "미국_카퍼릿지까베네소비뇽_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "A200606333",
+        "name": "미국_카퍼릿지멜롯_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "A200606334",
+        "name": "미국_카퍼릿지화이트진판델_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "A200606335",
+        "name": "미국_텍스트북나파카베르네소비뇽_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "A200606336",
+        "name": "바카디_바카디모히토_700ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606337",
+        "name": "바카디_봄베이드라이진_375ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "A200606338",
+        "name": "바카디_봄베이사파이어_750ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606339",
+        "name": "배상면주가_느린마을증류주_330ML",
+        "pack": 24,
+        "category": "병"
+    },
+    {
+        "code": "A200606340",
+        "name": "배상면주가_빙탄복_370ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "A200606341",
+        "name": "배상면주가_산사춘_300ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "A200606342",
+        "name": "배상면주가_심술병12_330ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AA02000012",
+        "name": "버드와이저캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606343",
+        "name": "보해_보해복분자주_375ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "AA02000028",
+        "name": "산미구엘블랑카캔_490ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000029",
+        "name": "산미구엘페일필젠캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000013",
+        "name": "산토리캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AB03000001",
+        "name": "스페인_본샹스모스카토_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB01000002",
+        "name": "스페인_페데리코파테니나까바브뤼_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606344",
+        "name": "아르헨티나_브로켈말벡_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AA02000008",
+        "name": "오비맥주_카스라이트캔_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000006",
+        "name": "오비맥주_카스라이트캔_464ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000004",
+        "name": "오비맥주_카스라이트캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA01000004",
+        "name": "오비맥주_카스라이트큐팩_1.6L",
+        "pack": 6,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606345",
+        "name": "오비맥주_카스레몬스퀴즈캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA01000002",
+        "name": "오비맥주_카스병_500ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "AA02000024",
+        "name": "오비맥주_카스캔_330ML*24",
+        "pack": 1,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000007",
+        "name": "오비맥주_카스캔_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606346",
+        "name": "오비맥주_카스캔_355ML*6",
+        "pack": 4,
+        "category": "캔"
+    },
+    {
+        "code": "A200606347",
+        "name": "오비맥주_카스캔_370ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000002",
+        "name": "오비맥주_카스캔_464ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000009",
+        "name": "오비맥주_카스캔_472ML*10",
+        "pack": 2,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000003",
+        "name": "오비맥주_카스캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606348",
+        "name": "오비맥주_카스캔_740ML",
+        "pack": 15,
+        "category": "대캔"
+    },
+    {
+        "code": "AA01000003",
+        "name": "오비맥주_카스큐팩_1.6L",
+        "pack": 6,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606349",
+        "name": "오비맥주_카스큐팩_1L",
+        "pack": 12,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606350",
+        "name": "오비맥주_필굿엑스트라캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606351",
+        "name": "오비맥주_필굿캔_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606352",
+        "name": "오비맥주_필굿캔_355ML*6",
+        "pack": 4,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000005",
+        "name": "오비맥주_필굿캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA01000005",
+        "name": "오비맥주_한맥_464ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "A200606353",
+        "name": "오비맥주_한맥_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AL01000004",
+        "name": "우리술_톡쏘는쌀막걸리_950ML",
+        "pack": 15,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606354",
+        "name": "우리술_톡쏘는알밤동동_750ML",
+        "pack": 20,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606355",
+        "name": "이태리_골든버블모스카토_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606356",
+        "name": "이태리_바바바르바레스코_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606357",
+        "name": "이태리_발비소프라니모스카토다스티_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB01000004",
+        "name": "이태리_벨꼴레모스카토다스티_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606358",
+        "name": "이태리_비벨로레드스위트_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB01000003",
+        "name": "이태리_빈야드모스카토스푸만테_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606359",
+        "name": "이태리_빌라엠_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606360",
+        "name": "이태리_카를로사니수수마니엘로_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606361",
+        "name": "이태리_칸티모스카토다스티DOCG_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "A200606362",
+        "name": "이태리_칸티모스카토콜레지오네파밀리아IGT_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "AB01000001",
+        "name": "이태리_칸티브라케토_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "A200606363",
+        "name": "이태리_코디치로쏘스위트_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606364",
+        "name": "일본_간바레오또상팩_900ML",
+        "pack": 6,
+        "category": "사케"
+    },
+    {
+        "code": "A200606365",
+        "name": "일본_센노유메_900ML",
+        "pack": 6,
+        "category": "사케"
+    },
+    {
+        "code": "ZA01000001",
+        "name": "주류파렛트(P-Pallet)",
+        "pack": 1,
+        "category": "부자재"
+    },
+    {
+        "code": "A200606366",
+        "name": "중국_고량주_250ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606367",
+        "name": "중국_공연주_250ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "A200606368",
+        "name": "중국_연태고량주_250ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606369",
+        "name": "중국_연태고량주_500ML",
+        "pack": 12,
+        "category": "캔"
+    },
+    {
+        "code": "A200606370",
+        "name": "짐빔하이볼캔레몬_350ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606371",
+        "name": "짐빔하이볼캔자몽_350ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606372",
+        "name": "짐빔하이볼캔진저_350ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "BA01000001",
+        "name": "집기류",
+        "pack": 1000,
+        "category": "부자재"
+    },
+    {
+        "code": "AA02606422",
+        "name": "칠레_1865까르미네르_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB02000003",
+        "name": "칠레_1865카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606373",
+        "name": "칠레_1887리저브샤르도네_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606374",
+        "name": "칠레_1887리저브카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB02000001",
+        "name": "칠레_까시에로리저브카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AA02606420",
+        "name": "칠레_까시에로멜롯_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB03000003",
+        "name": "칠레_까시에로샤도네_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606375",
+        "name": "칠레_까시에로쉬라즈_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606376",
+        "name": "칠레_까시에로카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB02000004",
+        "name": "칠레_몬테스알파카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AA02606423",
+        "name": "칠레_몬테스클래식멜롯_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606377",
+        "name": "칠레_발두지리제르바도까쇼까르미네르_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "A200606378",
+        "name": "칠레_발두지리제르바도샤도네이쇼블_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "A200606379",
+        "name": "칠레_발두지클래식까베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606380",
+        "name": "칠레_빈야드소비뇽블랑_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606381",
+        "name": "칠레_빈야드카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB02000006",
+        "name": "칠레_코노수르비씨클레타카베르네소비뇽_750ML",
+        "pack": 12,
+        "category": "와인"
+    },
+    {
+        "code": "AB02000007",
+        "name": "칠레_프론테라멜롯_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606382",
+        "name": "칠레_프론테라모스카토_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606383",
+        "name": "칠레_프론테라프리미엄까베네쇼비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606384",
+        "name": "칠레_프론테라프리미엄샤도네이_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606385",
+        "name": "코젤화이트캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606386",
+        "name": "크로넨버그1664라거캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606387",
+        "name": "프랑스_레정드드봉파스루베롱_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB02000005",
+        "name": "프랑스_로쉐마제까베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606388",
+        "name": "프랑스_로쉐마제메를로_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606389",
+        "name": "프랑스_빈야드뱅드프랑스레드_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606390",
+        "name": "프랑스_앙시앙땅까베르네쉬라_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606391",
+        "name": "하이트진로_매화수_300ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AA02606424",
+        "name": "하이트진로_매화수_300ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606392",
+        "name": "하이트진로_이슬톡톡_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AM01000022",
+        "name": "하이트진로_일품진로_375ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "AM01000048",
+        "name": "하이트진로_일품진로오크43_375ML",
+        "pack": 6,
+        "category": "병"
+    },
+    {
+        "code": "A200606393",
+        "name": "하이트진로_자몽에이슬_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606394",
+        "name": "하이트진로_진로25_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606395",
+        "name": "하이트진로_진로골드소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606396",
+        "name": "하이트진로_진로골드소주PET_550ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000034",
+        "name": "하이트진로_진로소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606397",
+        "name": "하이트진로_진로소주_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "A200606398",
+        "name": "하이트진로_진로소주PET_400ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000035",
+        "name": "하이트진로_진로소주PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000036",
+        "name": "하이트진로_참이슬_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000037",
+        "name": "하이트진로_참이슬_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000038",
+        "name": "하이트진로_참이슬PET_1.8L",
+        "pack": 6,
+        "category": "PET"
+    },
+    {
+        "code": "A200606399",
+        "name": "하이트진로_참이슬PET_500ML",
+        "pack": 20,
+        "category": "캔"
+    },
+    {
+        "code": "AM01000039",
+        "name": "하이트진로_참이슬PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000040",
+        "name": "하이트진로_참이슬담금주30도_1.8L",
+        "pack": 6,
+        "category": "PET"
+    },
+    {
+        "code": "A200606400",
+        "name": "하이트진로_참이슬담금주30도_5L",
+        "pack": 2,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000041",
+        "name": "하이트진로_참이슬클래식_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "AM01000042",
+        "name": "하이트진로_참이슬클래식_360ML*6",
+        "pack": 1,
+        "category": "6PACK"
+    },
+    {
+        "code": "AM01000043",
+        "name": "하이트진로_참이슬클래식PET_1.8L",
+        "pack": 6,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000044",
+        "name": "하이트진로_참이슬클래식PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606401",
+        "name": "하이트진로_참이슬클래식팩_200ML",
+        "pack": 40,
+        "category": "PACK"
+    },
+    {
+        "code": "AM01000045",
+        "name": "하이트진로_참이슬포켓_200ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AM01000046",
+        "name": "하이트진로_참이슬후레쉬PET_400ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "A200606402",
+        "name": "하이트진로_켈리병_500ML",
+        "pack": 12,
+        "category": "캔"
+    },
+    {
+        "code": "A200606403",
+        "name": "하이트진로_켈리캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000015",
+        "name": "하이트진로_켈리캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02606425",
+        "name": "하이트진로_켈리캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606404",
+        "name": "하이트진로_켈리피쳐_1.6L",
+        "pack": 6,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606405",
+        "name": "하이트진로_테라라이트캔_453ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000014",
+        "name": "하이트진로_테라라이트캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA01000006",
+        "name": "하이트진로_테라병_500ML",
+        "pack": 12,
+        "category": "병"
+    },
+    {
+        "code": "A200606406",
+        "name": "하이트진로_테라캔_250ML*6",
+        "pack": 4,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000016",
+        "name": "하이트진로_테라캔_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000017",
+        "name": "하이트진로_테라캔_453ML*8",
+        "pack": 3,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000018",
+        "name": "하이트진로_테라캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000019",
+        "name": "하이트진로_테라피쳐_1.6L",
+        "pack": 6,
+        "category": "피쳐"
+    },
+    {
+        "code": "AA02606427",
+        "name": "하이트진로_테라피쳐_1.9L",
+        "pack": 6,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606407",
+        "name": "하이트진로_테라피쳐_1L",
+        "pack": 12,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606408",
+        "name": "하이트진로_필라이트캔_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606409",
+        "name": "하이트진로_필라이트캔후레쉬_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000020",
+        "name": "하이트진로_필라이트캔후레쉬_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606410",
+        "name": "하이트진로_필라이트클리어캔_350ML*6",
+        "pack": 4,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000021",
+        "name": "하이트진로_필라이트클리어캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02606426",
+        "name": "하이트진로_필라이트클리어피쳐_1.6",
+        "pack": 6,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606411",
+        "name": "하이트진로_필라이트후레쉬_355ML*6",
+        "pack": 4,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000022",
+        "name": "하이트진로_필라이트후레쉬피쳐_1.6L",
+        "pack": 6,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606412",
+        "name": "하이트진로_필라이트후레쉬피쳐_1L",
+        "pack": 12,
+        "category": "피쳐"
+    },
+    {
+        "code": "A200606413",
+        "name": "하이트진로_하이트캔_355ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AA02000023",
+        "name": "하이트진로_하이트캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "A200606414",
+        "name": "한라산_한라산소주_360ML",
+        "pack": 20,
+        "category": "병"
+    },
+    {
+        "code": "A200606415",
+        "name": "한라산_한라산소주PET_640ML",
+        "pack": 20,
+        "category": "PET"
+    },
+    {
+        "code": "AA02000010",
+        "name": "호가든캔_500ML",
+        "pack": 24,
+        "category": "캔"
+    },
+    {
+        "code": "AB02000002",
+        "name": "호주_바로사잉크카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606416",
+        "name": "호주_빈야드샤도네_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606417",
+        "name": "호주_빈야드쉬라즈_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AA02606421",
+        "name": "호주_빈야드카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606418",
+        "name": "호주_옐로우테일쉬라즈_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "A200606419",
+        "name": "호주_옐로우테일카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AE04000002",
+        "name": "_탐나불린쉐리캐스크_700ML_RFID",
+        "pack": 6,
+        "category": "RFID"
+    },
+    {
+        "code": "AB02000009",
+        "name": "이태리_빈야드드라이스파클링_750ML",
+        "pack": 6,
+        "category": "와인"
+    },
+    {
+        "code": "AB02000008",
+        "name": "칠레_코노수르싱글빈야드카베르네소비뇽_750ML",
+        "pack": 6,
+        "category": "와인"
+    }
+]
