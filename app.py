@@ -8,6 +8,12 @@ import base64
 from PIL import Image
 
 try:
+    from supabase import create_client, Client
+    HAS_SUPABASE = True
+except ImportError:
+    HAS_SUPABASE = False
+
+try:
     logo_img = Image.open("logo.png")
 except:
     logo_img = "📦"
@@ -19,7 +25,23 @@ DB_FILE = "products_master.json"
 CATEGORY_LIST = ["캔", "대캔", "병", "PET", "피쳐", "와인", "사케", "보드카", "PACK", "6PACK", "RFID", "미분류"]
 
 # --- 마스터 데이터 로드/저장 ---
+def get_supabase_client():
+    if HAS_SUPABASE and "SUPABASE_URL" in st.secrets and "SUPABASE_KEY" in st.secrets:
+        if "your-project-id" not in st.secrets["SUPABASE_URL"]:
+            return create_client(st.secrets["SUPABASE_URL"], st.secrets["SUPABASE_KEY"])
+    return None
+
 def load_db():
+    sb = get_supabase_client()
+    if sb:
+        try:
+            response = sb.table("products_master").select("*").order("created_at", desc=True).execute()
+            if response.data:
+                return response.data
+        except Exception as e:
+            print(f"Supabase Load Error: {e}")
+            pass
+            
     if os.path.exists(DB_FILE):
         try:
             with open(DB_FILE, "r", encoding="utf-8") as f:
@@ -30,7 +52,7 @@ def load_db():
 
 def save_db(data):
     with open(DB_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 if 'product_list' not in st.session_state:
     st.session_state.product_list = load_db()
@@ -80,7 +102,16 @@ if st.session_state.current_page == "COMMON_PK_마스터":
         submitted = col5.form_submit_button("추가")
         
         if submitted and new_code and new_name:
-            st.session_state.product_list.insert(0, {"code": new_code, "name": new_name, "pack": int(new_pack), "category": new_cat})
+            new_item = {"code": new_code, "name": new_name, "pack": int(new_pack), "category": new_cat}
+            
+            sb = get_supabase_client()
+            if sb:
+                try:
+                    sb.table("products_master").insert(new_item).execute()
+                except Exception as e:
+                    st.error(f"Supabase 저장 오류: {e}")
+            
+            st.session_state.product_list.insert(0, new_item)
             save_db(st.session_state.product_list)
             st.success("추가 완료!")
             st.rerun()
